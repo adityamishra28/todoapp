@@ -10,5 +10,5 @@ Technology used
  5. Flask-Migrate
  6. HTML and JavaScript
  
- Terminal Command 
+ Terminal Command :- 
   FLASK_APP=app.py FLASK_DEBUG=true flask run
